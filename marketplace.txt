@@ -1,3 +1,4 @@
 adding the billing address in the user creation form
 adding the billing address in the update creation form
 adding the billing address in the user summary form
+adding the send an invitation button for guests to the event information page
